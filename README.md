@@ -1,4 +1,8 @@
 #
+<!DOCTYPE html>
+<html>
+
+<body>
 <h2> Bootstrap 4 HTML Templates <br />
 ---------------------------------- </h2>
 <p>
@@ -13,4 +17,9 @@
 	<li>MySQL / SQL Data</li>
 </ul>
 
-<div class="text-red">*** All JSON files must be served from a Web Server to work</div>
+<div class="text-white bg-red mb-2">
+  *** All JSON files must be served from a Web Server to work
+</div>
+
+</body>
+</html>
