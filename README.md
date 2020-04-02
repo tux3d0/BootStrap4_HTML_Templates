@@ -1,5 +1,5 @@
 #
-<h2> Bootstrap 4 HTML Templates
+<h2> Bootstrap 4 HTML Templates <br />
 ---------------------------------- </h2>
 <p>
 	Basic Front-End Templates for common use.
@@ -12,7 +12,5 @@
 	<li>JSON Files / Data</li>
 	<li>MySQL / SQL Data</li>
 </ul>
--
--JQuery 3.4.1
--JSON Files / Data 
+
 <span style="text-decoration-color: red;">*** All JSON files must be served from a Web Server to work</span>
