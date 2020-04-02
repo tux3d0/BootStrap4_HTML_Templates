@@ -13,4 +13,4 @@
 	<li>MySQL / SQL Data</li>
 </ul>
 
-<span style="text-decoration-color: red;">*** All JSON files must be served from a Web Server to work</span>
+<div class="text-red">*** All JSON files must be served from a Web Server to work</div>
